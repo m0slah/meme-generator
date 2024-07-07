@@ -1,10 +1,11 @@
 import Header from "./components/Header";
+import Meme from "./components/Meme";
 
 function App() {
   return (
     <div>
       <Header />
-      <h1>hello world</h1>
+      <Meme />
     </div>
   );
 }
